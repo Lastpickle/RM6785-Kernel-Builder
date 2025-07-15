@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "lplus a13",
       "repo": "https://github.com/AbzRaider/android_kernel_realme_mt6785",
-      "branch": "stable",
+      "branch": "stable.R2",
       "device": "RM6785",
       "defconfig": "RM6785_defconfig"
     },
