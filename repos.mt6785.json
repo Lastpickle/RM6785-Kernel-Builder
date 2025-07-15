@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "lplus a13",
+      "name": "lplus-a13",
       "repo": "https://github.com/Lastpickle/android_kernel_realme_mt6785",
-      "branch": "13.0",
+      "branch": "Stable.R2",
       "device": "RM6785",
       "defconfig": "RM6785_defconfig"
     },
