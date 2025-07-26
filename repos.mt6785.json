@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "lplus-a13",
-      "repo": "https://github.com/Lastpickle/android_kernel_realme_mt6785",
-      "branch": "13.0",
-      "device": "RM6785",
-      "defconfig": "RM6785_defconfig"
+      "name": "Rui1-stock-kernel",
+      "repo": "https://github.com/realme-kernel-opensource/realme6-kernel-source",
+      "branch": "master",
+      "device": "RMX2001",
+      "defconfig": "oppo6785_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
